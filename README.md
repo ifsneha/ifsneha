@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ifsneha
+- 👋 Hi, I’m Neha
 - 👀 I’m interested in gaming and reading 
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning 
 - 💞️ I’m not looking to collaborate on anything currently
 - 📫 How to reach me : 111513nehas@gmail.com or goldenstudlife@gmail.com
 - 😄 Pronouns: She/Her
